@@ -1,0 +1,22 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        path {
+            stroke: black;
+        }
+
+        rect {
+            fill: white;
+        }
+
+        @media (prefers-color-scheme: light) {
+            path {
+                    stroke: white;
+            }
+            rect {
+                fill: black;
+            }
+        }
+    </style>
+    <rect width="48" height="48" rx="8" fill="white"/>
+    <path d="M11.4672 29.6965C10.6083 32.3047 10.6913 34.4745 11.9206 35.7038C14.4058 38.189 20.7357 35.9891 26.76 30.7918M19.7726 17.8036C26.1355 11.8412 33.161 9.1614 35.812 11.8124C37.0387 13.0391 37.1239 15.2025 36.2706 17.8036" stroke="black" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

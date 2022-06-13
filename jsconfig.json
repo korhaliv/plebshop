@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  }
+}

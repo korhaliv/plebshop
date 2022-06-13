@@ -1,0 +1,10 @@
+.cache
+package.json
+package-lock.json
+public
+.next
+.netlify
+backend/dist/
+backend/plugins/
+out_functions
+out_publish
