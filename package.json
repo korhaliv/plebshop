@@ -11,7 +11,7 @@
     "@bugsnag/js": "7.16.5",
     "@bugsnag/plugin-react": "7.16.5",
     "@chakra-ui/core": "1.0.0-rc.8",
-    "@chakra-ui/react": "^1.8.3",
+    "@chakra-ui/react": "1.8.3",
     "@emotion/react": "11.9.0",
     "@emotion/styled": "11.8.1",
     "axios": "0.26.0",
